@@ -1,0 +1,50 @@
+---
+title: "The Beautiful Game Goes Global"
+author: "Arthur Gymer"
+date: "2020-07-08"
+categories: ["Football", "R"]
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The Data
+
+Following some [visualisation of the global spread of rugby](https://awgymer.github.io/rugby-stats/spread_of_rugby.html) I performed someone on Reddit suggested I do something similar for football.
+
+I found that data for the first official match of FIFA member states past and present was available [on Wikipedia](https://en.wikipedia.org/wiki/List_of_first_association_football_internationals_per_country:_before_1940)
+
+Some points to note about this data:
+
+- "International" teams are not limited to those corresponding to sovereign nations. Several teams - including England, Wales, Scotland, and Hong Kong - compete at international level representing smaller subdivisions of nations.
+
+- The first appearance is not necesarily a test match against another international team. For example Republic of Congo debuted against Reunion who have never been a FIFA member.
+
+- The USSR, Yugoslavia, and Czechoslovakia teams represented combinations of current nations and this presented some difficulty. See [below](#handling-multi-nation-states) for a fuller explanation of how I handled this.
+
+
+- East Germany, Saarland, and British Palestine are discounted. Germany competed before the existence of East Germany and Saarland. British Palestine didn't feel easy to reconcile with Israel/Palestine so I just left it out. 
+
+
+- Yemen is considered to have started with South Yemen. Both North and South competed for the first time in 1965.
+
+- Vietnam is considered to have started when what is listed as South Vietnam competed in 1947, at which time the State of Vietnam appears to have been technically a single entity. North Vietnam and combined Vietnam later starts are ignored.
+
+- China is considered to have started in 1913, despite there being a second entry for China PR in the data for 1948.
+
+
+I took geo data from [Natural Earth](https://www.naturalearthdata.com/) and created a custom set using sovereign nations where possible but incorporating dependencies and subdivisions where necessary. I computed centroids for this data using [mapshaper](https://mapshaper.org/).
+
+
+## The Results
+
+In the same way as my previous rugby analysis I created an interactive chart of the situation as it stands in 2020 (so no info on USSR etc) which you can find [here](plots/beautiful_game_goes_global_2020.html) and the video below:
+
+<div id="plot-video">
+<video width="800" controls>
+  <source src="plots/the_beautiful_game_goes_global.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>

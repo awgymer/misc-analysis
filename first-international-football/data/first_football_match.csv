@@ -1,0 +1,219 @@
+team_name,oppname,outcome,score,venue,ko_year,ko_date,geo_id
+Scotland,England,D,0 - 0,"Hamilton Crescent, Partick",1872,30 November 1872,Scotland
+England,Scotland,D,0 - 0,"Hamilton Crescent, Partick",1872,30 November 1872,England
+Wales,Scotland,L,0 - 4,"Hamilton Crescent, Partick",1876,25 March 1876,Wales
+Northern Ireland,England,L,0 - 13,"Bloomfield, Belfast",1882,18 February 1882,Northern Ireland
+Uruguay,Argentina,L,0 - 6,"Estadio Paso del Molino, Montevideo",1902,20 July 1902,Uruguay
+Argentina,Uruguay,W,6 - 0,"Estadio Paso del Molino, Montevideo",1902,20 July 1902,Argentina
+Austria,Hungary,W,5 - 0,"Wiener A.C. Platz, Vienna",1902,12 October 1902,Austria
+Hungary,Austria,L,0 - 5,"Wiener A.C. Platz, Vienna",1902,12 October 1902,Hungary
+Czech Republic,Hungary,L,1 - 2,"Millenáris Sporttelep, Budapest",1903,5 April 1903,Czechia
+Belgium,France,D,3 - 3,"Stade du Vivier d'Oie, Brussels",1904,1 May 1904,Belgium
+France,Belgium,D,3 - 3,"Stade du Vivier d'Oie, Brussels",1904,1 May 1904,France
+Switzerland,France,L,0 - 1,"Parc des Princes, Paris",1905,12 February 1905,Switzerland
+Netherlands,Belgium,W,4 - 1,"Beerschot A.C. Stadion, Antwerp",1905,30 April 1905,Netherlands
+Guyana,Trinidad & Tobago,L,1 - 4,British Guiana,1905,21 July 1905,Guyana
+Trinidad & Tobago,Guyana,W,4 - 1,British Guiana,1905,21 July 1905,Trinidad and Tobago
+Germany,Switzerland,L,3 - 5,"Stadion Landhof, Basel",1908,5 April 1908,Germany
+Sweden,Norway,W,11 - 3,"Balders Hage, Gothenburg",1908,12 July 1908,Sweden
+Norway,Sweden,L,3 - 11,"Balders Hage, Gothenburg",1908,12 July 1908,Norway
+Denmark,France,W,9 - 0,"White City, London",1908,19 October 1908,Denmark
+Italy,France,W,6 - 2,"Arena Civica, Milan",1910,15 May 1910,Italy
+Chile,Argentina,L,1 - 3,"Belgrano, Buenos Aires",1910,27 May 1910,Chile
+Finland,Sweden,L,2 - 5,"Eläintarha Stadium, Helsinki",1911,22 October 1911,Finland
+Luxembourg,France,L,1 - 4,"Stade Racing Club, Lëtzebuerg",1911,29 October 1911,Luxembourg
+Russia,Finland,L,1 - 2,"Tranebergs Idrottsplats, Stockholm",1912,30 June 1912,Russia
+Philippines,China,L,0 - 1,"Carnival Grounds, Manila",1913,1 February 1913,Philippines
+China,Philippines,W,1 - 0,"Carnival Grounds, Manila",1913,1 February 1913,China
+Brazil,Argentina,L,0 - 3,"Gimnasia, Buenos Aires",1914,20 September 1914,Brazil
+USA,Sweden,W,3 - 2,"Stockholms Stadion, Stockholm",1916,20 August 1916,United States of America
+Japan,China,L,0 - 5,Tokyo,1917,9 May 1917,Japan
+Paraguay,Argentina,L,1 - 5,"Estadio de Puerto Sajonia, Asunción",1919,11 May 1919,Paraguay
+Spain,Denmark,W,1 - 0,"La Butte, Brussels",1920,28 August 1920,Spain
+Czechoslovakia,Yugoslavia,W,7 - 0,"Bosuilstadion, Antwerp",1920,28 August 1920,Czechoslovakia
+Yugoslavia,Czechoslovakia,L,0 - 7,"Bosuilstadion, Antwerp",1920,28 August 1920,Yugoslavia
+Egypt,Italy,L,1 - 2,"Jules Ottenstadion, Ghent",1920,28 August 1920,Egypt
+Estonia,Finland,L,0 - 6,"Töölön Pallokenttä, Helsinki",1920,17 October 1920,Estonia
+Suriname,Guyana,L,1 - 2,Dutch Guiana,1921,28 January 1921,Suriname
+Costa Rica,El Salvador,W,7 - 0,Guatemala City,1921,14 September 1921,Costa Rica
+El Salvador,Costa Rica,L,0 - 7,Guatemala City,1921,14 September 1921,El Salvador
+Guatemala,Honduras,W,10 - 1,Guatemala City,1921,14 September 1921,Guatemala
+Honduras,Guatemala,L,1 - 10,Guatemala City,1921,14 September 1921,Honduras
+Poland,Hungary,L,0 - 1,"Hungária Körút, Budapest",1921,18 December 1921,Poland
+Portugal,Spain,L,1 - 3,"Campo de O'Donnell, Madrid",1921,18 December 1921,Portugal
+Romania,Yugoslavia,W,2 - 1,"Stadion Jugoslavija, Belgrade",1922,8 June 1922,Romania
+New Zealand,Australia,W,3 - 1,"Carisbrook, Dunedin",1922,17 June 1922,New Zealand
+Australia,New Zealand,L,1 - 3,"Carisbrook, Dunedin",1922,17 June 1922,Australia
+Latvia,Finland,D,1 - 1,"A.S.K. Stadion, Riga",1922,24 September 1922,Latvia
+Mexico,Guatemala,W,3 - 2,"Estadio Marte, Guatemala City",1923,1 January 1923,Mexico
+Lithuania,Estonia,L,0 - 5,"L.F.L.S. Stadionas, Kaunas",1923,24 June 1923,Lithuania
+Turkey,Romania,D,2 - 2,"Taksim Stadium, İstanbul",1923,26 October 1923,Turkey
+Aruba,Curaçao,L,0 - 4,Aruba,1924,6 April 1924,Aruba
+Curaçao,Aruba,W,4 - 0,Aruba,1924,6 April 1924,Curaçao
+Bulgaria,Austria,L,0 - 6,"Simmeringer Sportplatz, Vienna",1924,21 May 1924,Bulgaria
+Republic of Ireland,Bulgaria,W,1 - 0,"Stade Olympique de Colombes, Colombes, Paris",1924,28 May 1924,Ireland
+Canada,Australia,L,2 - 3,Brisbane,1924,7 June 1924,Canada
+South Africa,Northern Ireland,W,2 - 1,"Solitude, Belfast",1924,24 September 1924,South Africa
+USSR,Turkey,W,3 - 0,"Stadion Imeni Vorovskogo, Moscow",1924,16 November 1924,USSR
+Haiti,Jamaica,L,1 - 2,Haiti,1925,22 March 1925,Haiti
+Jamaica,Haiti,W,2 - 1,Haiti,1925,22 March 1925,Jamaica
+Kenya,Uganda,D,1 - 1,Nairobi,1926,1 May 1926,Kenya
+Uganda,Kenya,D,1 - 1,Nairobi,1926,1 May 1926,Uganda
+Bolivia,Chile,L,1 - 7,"Estadio Sport de Ñuñoa, Santiago",1926,12 October 1926,Bolivia
+Peru,Uruguay,L,0 - 4,"Estadio Nacional, Lima",1927,11 November 1927,Peru
+Tunisia,France,L,2 - 3,"Stade Municipal de Gabès, Gabès",1928,1928,Tunisia
+Greece,Italy,L,1 - 4,"Leoforos Alexandras Stadium, Athens",1929,7 April 1929,Greece
+Nicaragua,El Salvador,W,9 - 0,El Salvador,1929,1 May 1929,Nicaragua
+Cuba,Jamaica,W,3 - 1,Havana,1930,16 March 1930,Cuba
+Barbados,Martinique,L,1 - 2,Barbados,1931,9 February 1931,Barbados
+Indonesia,Japan,W,7 - 1,"Rizal Memorial Stadium, Manila",1934,13 May 1934,Indonesia
+Panama,Mexico,D,2 - 2,"Cali, Colombia",1937,28 July 1937,Panama
+Colombia,Mexico,L,1 - 3,"Nacional, Panama City",1938,10 February 1938,Colombia
+Venezuela,Panama,L,1 - 3,Panama City,1938,12 February 1938,Venezuela
+Ecuador,Bolivia,D,1 - 1,"Bogota, Colombia",1938,8 August 1938,Ecuador
+India,Australia,L,3 - 5,"Sydney, Australia",1938,3 September 1938,India
+Zimbabwe,England C,L,0 - 4,"Ascot Stadium, Gweru",1939,26 June 1939,Zimbabwe
+Slovakia,Germany,W,2 - 0,"Stadion Slovana, Bratislava",1939,27 August 1939,Slovakia
+Croatia,Switzerland,W,4 - 0,"HSK Gradjanski Stadium, Zagreb",1940,2 April 1940,Croatia
+Lebanon,Mandatory Palestine,L,1 - 5,"Maccabiah Stadium, Tel-Aviv",1940,27 April 1940,Lebanon
+Puerto Rico,Cuba,D,1 - 1,Havana,1940,12 November 1940,Puerto Rico
+Afghanistan,Iran,D,0 - 0,Kabul,1941,25 August 1941,Afghanistan
+Iran,Afghanistan,D,0 - 0,Kabul,1941,25 August 1941,Iran
+Mongolia,Japan,L,0 - 12,"Xinjing, Manchuria",1942,10 August 1942,Mongolia
+Tanzania,Uganda,L,0 - 7,"Nakivubo Stadium, Kampala",1945,1945,Tanzania
+Iceland,Denmark,L,0 - 3,Reykjavík,1946,17 July 1946,Iceland
+Albania,Yugoslavia,L,2 - 3,Tirana,1946,17 July 1946,Albania
+Zambia,Zimbabwe,W,4 - 0,Salisbury,1946,1946,Zambia
+Ethiopia,Djibouti,W,5 - 0,"Addis Ababa Stadium, Addis Ababa",1947,15 May 1947,Ethiopia
+Djibouti,Ethiopia,L,0 - 5,"Addis Ababa Stadium, Addis Ababa",1947,15 May 1947,Djibouti
+Madagascar,Mauritius,L,1 - 2,"Mahamasina Municipal Stadium, Antananarivo",1947,1947,Madagascar
+Mauritius,Madagascar,W,2 - 1,"Mahamasina Municipal Stadium, Antananarivo",1947,1947,Mauritius
+China,Turkey,L,0 - 4,"Green Pond Road, Walthamstow, England",1948,2 August 1948,China
+South Korea,Mexico,W,5 - 3,"Champion Hill, Dulwich, England",1948,2 August 1948,South Korea
+Israel,United States at the Olympics,L,1 - 3,"Giants Stadium, New York City, United States",1948,26 September 1948,Israel
+Hong Kong,South Korea,L,2 - 5,Hong Kong,1949,1 January 1949,Hong Kong S.A.R.
+Vietnam,South Korea,L,2 - 4,Sài Gòn,1949,15 January 1949,Vietnam
+Macau,South Korea,L,1 - 5,Macau,1949,25 January 1949,Macao S.A.R
+Cyprus,Israel,L,1 - 3,Tel Aviv,1949,30 July 1949,Cyprus
+Sierra Leone,Nigeria,L,0 - 2,Freetown,1949,10 August 1949,Sierra Leone
+Nigeria,Sierra Leone,W,2 - 0,Freetown,1949,10 August 1949,Nigeria
+Syria,Turkey,L,0 - 7,"Ankara 19 Mayıs Stadyumu, Ankara",1949,20 November 1949,Syria
+Pakistan,Iran,L,1 - 5,"Amjadieh Stadium, Tehran",1950,6 January 1950,Pakistan
+Ghana,Nigeria,W,1 - 0,Accra,1950,28 May 1950,Ghana
+Myanmar,Iran,L,0 - 2,"New Delhi, India",1950,28 May 1950,Myanmar
+New Caledonia,New Zealand,W,2 - 0,Nouméa,1951,19 September 1951,New Caledonia
+Vanuatu,New Zealand,L,0 - 9,"Nouméa, New Caledonia",1951,4 October 1951,Vanuatu
+Fiji,New Zealand,L,4 - 6,Suva,1951,7 October 1951,Fiji
+Sri Lanka,Pakistan,L,0 - 2,Colombo,1952,1 January 1952,Sri Lanka
+Tahiti,New Zealand,D,2 - 2,Papeete,1952,21 September 1952,French Polynesia
+Singapore,South Korea,L,2 - 3,Singapore,1953,11 April 1953,Singapore
+Malaysia,South Korea,L,2 - 3,Singapore,1953,13 April 1953,Malaysia
+Palestine,Egypt,L,1 - 8,"Alexandria Stadium, Alexandria",1953,26 July 1953,Palestine
+Libya,Egypt,L,2 - 10,"Alexandria Stadium, Alexandria",1953,29 July 1953,Libya
+Jordan,Syria,L,1 - 3,"Alexandria Stadium, Alexandria, Egypt",1953,1 August 1953,Jordan
+Chinese Taipei,Vietnam,W,3 - 2,"Manila, Philippines",1954,1 May 1954,Taiwan
+Cambodia,Malaysia,L,2 - 3,Phnom-Penh,1956,17 March 1956,Cambodia
+Vietnam,China,L,3 - 5,Beijing,1956,4 October 1956,Vietnam
+North Korea,China,W,1 - 0,Beijing,1956,7 October 1956,North Korea
+Togo,Ghana,D,1 - 1,"Stade Agoè-Nyivé, Lomé",1956,13 October 1956,Togo
+Sudan,Ethiopia,L,1 - 2,"Addis Ababa Stadium, Addis Ababa",1956,16 November 1956,Sudan
+Thailand,Vietnam,L,1 - 3,South Vietnam,1956,1956,Thailand
+Malta,Austria,L,2 - 3,"Ta' Qali National Stadium, Gżira",1957,24 February 1957,Malta
+Algeria,Tunisia,W,2 - 1,Tunisia,1957,1 June 1957,Algeria
+Saudi Arabia,Lebanon,D,1 - 1,"Beirut, Lebanon",1957,18 October 1957,Saudi Arabia
+Morocco,Iraq,D,3 - 3,"Beirut, Lebanon",1957,19 October 1957,Morocco
+Iraq,Morocco,D,3 - 3,"Beirut, Lebanon",1957,19 October 1957,Iraq
+Benin,Nigeria,L,0 - 1,Cotonou,1959,8 November 1959,Benin
+Ivory Coast,Benin,W,3 - 2,"Antananarivo, Madagascar",1960,13 April 1960,Ivory Coast
+Burkina Faso,Gabon,W,5 - 4,"Antananarivo, Madagascar",1960,13 April 1960,Burkina Faso
+Gabon,Burkina Faso,L,4 - 5,"Antananarivo, Madagascar",1960,13 April 1960,Gabon
+Cameroon,Djibouti,W,9 - 2,"Antananarivo, Madagascar",1960,13 April 1960,Cameroon
+Mali,Central African Republic,W,4 - 3,"Antananarivo, Madagascar",1960,13 April 1960,Mali
+Central African Republic,Mali,L,3 - 4,"Antananarivo, Madagascar",1960,13 April 1960,Central African Republic
+Congo,Réunion,W,4 - 1,"Antananarivo, Madagascar",1960,13 April 1960,Republic of the Congo
+Guinea,Nigeria,L,1 - 4,"Onikan Stadium, Lagos",1960,2 October 1960,Guinea
+Kuwait,Libya,D,2 - 2,"Casablanca, Morocco",1961,3 September 1961,Kuwait
+Laos,Vietnam,L,0 - 7,"Rangoon, Burma",1961,12 December 1961,Laos
+Senegal,Benin,L,3 - 4,"Abidjan, Ivory Coast",1961,31 December 1961,Senegal
+Malawi,Ghana,L,0 - 12,Blantyre,1962,15 October 1962,Malawi
+Gambia,Senegal,W,3 - 2,Banjul,1962,5 December 1962,Gambia
+Liberia,Chad,W,2 - 1,"Dakar, Senegal",1963,11 April 1963,Liberia
+Chad,Liberia,L,1 - 2,"Dakar, Senegal",1963,11 April 1963,Chad
+Congo DR,Mauritania,W,6 - 0,"Dakar, Senegal",1963,11 April 1963,Democratic Republic of the Congo
+Mauritania,Congo DR,L,0 - 6,"Dakar, Senegal",1963,11 April 1963,Mauritania
+Niger,Nigeria,L,0 - 1,"Dakar, Senegal",1963,11 April 1963,Niger
+Papua New Guinea,Fiji,L,1 - 3,"Suva, Fiji",1963,29 August 1963,Papua New Guinea
+Solomon Islands,Vanuatu,W,6 - 3,"Suva, Fiji",1963,29 August 1963,Solomon Islands
+Somalia,North Korea,L,0 - 14,"Jakarta, Indonesia",1963,12 November 1963,Somalia
+Bermuda,Iceland,L,3 - 4,"Reykjavík, Iceland",1964,10 August 1964,Bermuda
+Yemen,Egypt,L,0 - 14,"Cairo, Egypt",1965,2 September 1965,Yemen
+Oman,Sudan,L,0 - 15,"Cairo, Egypt",1965,2 September 1965,Oman
+Yemen,Sudan,L,0 - 9,"Cairo, Egypt",1965,5 September 1965,Yemen
+Grenada,Dominica,L,0 - 2,Saint Vincent and the Grenadines,1965,21 November 1965,Grenada
+Bahrain,Kuwait,D,4 - 4,"Baghdad, Iraq",1966,1 April 1966,Bahrain
+Dominican Republic,Haiti,L,0 - 8,"Santo Domingo, Dominican Republic",1967,21 May 1967,Dominican Republic
+eSwatini,Malawi,W,2 - 0,"Lobamba, Swaziland",1968,1 May 1968,eSwatini
+Botswana,Malawi,L,1 - 8,"Blantyre, Malawi",1968,13 July 1968,Botswana
+Bahamas,Netherlands Antilles,L,1 - 8,"Panama City, Panama",1970,3 March 1970,The Bahamas
+Qatar,Bahrain,L,1 - 2,Bahrain,1970,27 March 1970,Qatar
+Lesotho,Malawi,W,2 - 1,"Blantyre, Malawi",1970,8 August 1970,Lesotho
+Brunei,Malaysia,L,0 - 8,"Bangkok, Thailand",1971,21 May 1971,Brunei
+Cook Islands,Tahiti,L,0 - 30,"Papeete, French Polynesia",1971,2 September 1971,Cook Islands
+Burundi,Tanzania,L,1 - 4,"Dar es Salaam, Tanzania",1971,5 December 1971,Burundi
+United Arab Emirates,Qatar,W,1 - 0,Saudi Arabia,1972,17 March 1972,United Arab Emirates
+Nepal,China,L,2 - 6,China,1972,13 October 1972,Nepal
+Antigua & Barbuda,Trinidad & Tobago,L,1 - 11,"Port of Spain, Trinidad and Tobago",1972,13 October 1972,Antigua and Barbuda
+Bangladesh,Thailand,D,2 - 2,Malaysia,1973,26 July 1973,Bangladesh
+Seychelles,Réunion,L,0 - 2,"Saint-Louis, Réunion",1974,13 March 1974,Seychelles
+Equatorial Guinea,China,L,2 - 6,"Beijing, China",1975,23 May 1975,Equatorial Guinea
+Guam,Fiji,L,0 - 11,Guam,1975,24 August 1975,Guam
+Guinea-Bissau,Mali,D,2 - 2,"Banjul, Gambia",1976,15 January 1976,Guinea-Bissau
+Rwanda,Burundi,L,2 - 6,"Libreville, Gabon",1976,29 June 1976,Rwanda
+São Tomé & Príncipe,Chad,L,0 - 5,"Libreville, Gabon",1976,29 June 1976,São Tomé and Principe
+Angola,Cuba,W,1 - 0,"Luanda, Angola",1977,1 June 1977,Angola
+Mozambique,Tanzania,L,1 - 2,"Maputo, Mozambique",1977,20 December 1977,Mozambique
+Cape Verde,Guinea-Bissau,L,0 - 3,"Bissau, Guinea-Bissau",1979,7 January 1979,Cabo Verde
+Saint Vincent & the Grenadines,Martinique,D,2 - 2,Suriname,1979,February 1979,Saint Vincent and the Grenadines
+Saint Kitts & Nevis,Jamaica,L,1 - 2,Suriname,1979,3 June 1979,Saint Kitts and Nevis
+Samoa,Wallis & Futuna,L,1 - 3,Fiji,1979,22 August 1979,Samoa
+Comoros,Mauritius,L,0 - 3,"Saint-Denis, Réunion",1979,26 August 1979,Comoros
+Tonga,Tahiti,L,0 - 8,Fiji,1979,29 August 1979,Tonga
+Maldives,Seychelles,L,0 - 9,"Saint-Denis, Réunion",1979,26 August 1979,Maldives
+Liechtenstein,Switzerland,L,0 - 1,"Balzers, Liechtenstein",1982,9 March 1982,Liechtenstein
+Bhutan,Nepal,L,1 - 3,"Kathmandu, Nepal",1982,1 April 1982,Bhutan
+American Samoa,Western Samoa,L,1 - 3,"Apia, Western Samoa",1983,20 August 1983,American Samoa
+Faroe Islands,Iceland,L,0 - 1,"Akranes, Iceland",1988,24 August 1988,Faroe Islands
+Dominica,Jamaica,D,1 - 1,Dominica,1989,1 May 1989,Dominica
+Namibia,Angola,L,0 - 1,"Oscar Norich Stadium, Tsumeb",1989,16 May 1989,Namibia
+Saint Lucia,Jamaica,D,1 - 1,"Kingston, Jamaica",1989,18 June 1989,Saint Lucia
+Georgia,Lithuania,D,2 - 2,"Tbilisi, Georgia",1990,27 May 1990,Georgia
+San Marino,Switzerland,L,0 - 4,"Serravalle, San Marino",1990,14 November 1990,San Marino
+Cayman Islands,British Virgin Islands,W,2 - 1,"Basseterre, Saint Kitts and Nevis",1991,10 May 1991,Cayman Islands
+British Virgin Islands,Cayman Islands,L,1 - 2,"Basseterre, Saint Kitts and Nevis",1991,10 May 1991,British Virgin Islands
+Montserrat,Saint Lucia,L,0 - 3,"Castries, Saint Lucia",1991,10 May 1991,Montserrat
+Anguilla,Montserrat,D,1 - 1,"Castries, Saint Lucia",1991,14 May 1991,Anguilla
+Moldova,Georgia,L,2 - 4,"Chişinău, Moldova",1991,2 July 1991,Moldova
+Vietnam,Philippines,D,2 - 2,"Manila, Philippines",1991,26 November 1991,Vietnam
+Ukraine,Hungary,L,1 - 3,"Uzhhorod, Ukraine",1992,29 April 1992,Ukraine
+Kazakhstan,Turkmenistan,W,1 - 0,"Almaty, Kazakhstan",1992,1 June 1992,Kazakhstan
+Turkmenistan,Kazakhstan,L,0 - 1,"Almaty, Kazakhstan",1992,1 June 1992,Turkmenistan
+Slovenia,Estonia,D,1 - 1,"Tallinn, Estonia",1992,3 June 1992,Slovenia
+Tajikistan,Uzbekistan,D,2 - 2,"Dushanbe, Tajikistan",1992,17 June 1992,Tajikistan
+Uzbekistan,Tajikistan,D,2 - 2,"Dushanbe, Tajikistan",1992,17 June 1992,Uzbekistan
+Eritrea,Sudan,D,1 - 1,"Khartoum, Sudan",1992,26 June 1992,Eritrea
+Andorra,Estonia,L,1 - 6,"Andorra la Vella, Andorra",1992,26 June 1992,Andorra
+Belarus,Lithuania,D,1 - 1,"Vilnius, Lithuania",1992,20 July 1992,Belarus
+Kyrgyzstan,Uzbekistan,L,0 - 3,"Tashkent, Uzbekistan",1992,23 August 1992,Kyrgyzstan
+Azerbaijan,Georgia,L,3 - 6,"Gurjaani, Georgia",1992,17 September 1992,Azerbaijan
+Armenia,Moldova,D,0 - 0,"Yerevan, Armenia",1992,14 October 1992,Armenia
+Bosnia & Herzegovina,Iran,W,3 - 1,"Tehran, Iran",1993,12 September 1993,Bosnia and Herzegovina
+North Macedonia,Slovenia,W,4 - 1,"Kranj, Slovenia",1993,13 October 1993,Macedonia
+Belize,El Salvador,L,0 - 3,"San Salvador, El Salvador",1995,29 November 1995,Belize
+US Virgin Islands,British Virgin Islands,W,1 - 0,"Charlotte Amalie, U.S. Virgin Islands",1998,21 March 1998,United States Virgin Islands
+Turks & Caicos Islands,Bahamas,L,0 - 3,"Nassau, Bahamas",1999,24 February 1999,Turks and Caicos Islands
+Timor-Leste,Sri Lanka,L,2 - 3,"Colombo, Sri Lanka",2003,21 March 2003,East Timor
+Serbia,Czech Republic,W,3 - 1,"Uherské Hradiště, Czech Republic",2006,16 August 2006,Serbia
+Montenegro,Hungary,W,2 - 1,"Podgorica, Montenegro",2007,24 March 2007,Montenegro
+South Sudan,Uganda,D,2 - 2,"Juba, South Sudan",2012,10 July 2012,South Sudan
+Gibraltar,Slovakia,D,0 - 0,"Faro, Portugal",2013,19 November 2013,Gibraltar
+Kosovo,Haiti,D,0 - 0,"Mitrovica, Kosovo",2014,5 March 2014,Kosovo

@@ -1,0 +1,9 @@
+---
+title: "General Analysis by AWGymer"
+---
+
+This is my R-Markdown based website where I host short reports I create for analysis I've performed on a  variety of data.
+
+#### Analyses
+
+1. [Beautiful Game Goes Global](beautiul-game-goes-global.html)

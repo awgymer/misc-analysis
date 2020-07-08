@@ -1,0 +1,7 @@
+name: "analysis"
+output_dir: ../docs
+navbar:
+  title: "Miscellaneous Analysis"
+  left:
+    - text: "Home"
+      href: index.html
