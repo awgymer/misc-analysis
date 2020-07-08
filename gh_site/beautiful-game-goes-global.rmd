@@ -22,7 +22,7 @@ Some points to note about this data:
 
 - The first appearance is not necesarily a test match against another international team. For example Republic of Congo debuted against Reunion who have never been a FIFA member.
 
-- The USSR, Yugoslavia, and Czechoslovakia teams represented combinations of current nations and this presented some difficulty. See [below](#handling-multi-nation-states) for a fuller explanation of how I handled this.
+- The USSR, Yugoslavia, and Czechoslovakia teams represented combinations of current nations and this presented some difficulty. See [below](#handling-dissolved-multi-nation-states) for a fuller explanation of how I handled this.
 
 
 - East Germany, Saarland, and British Palestine are discounted. Germany competed before the existence of East Germany and Saarland. British Palestine didn't feel easy to reconcile with Israel/Palestine so I just left it out. 
@@ -36,6 +36,19 @@ Some points to note about this data:
 
 
 I took geo data from [Natural Earth](https://www.naturalearthdata.com/) and created a custom set using sovereign nations where possible but incorporating dependencies and subdivisions where necessary. I computed centroids for this data using [mapshaper](https://mapshaper.org/).
+
+
+#### Handling Dissolved Multi-Nation States
+
+The multination states of USSR, Yugoslavia, and Czechoslovakia posed some tricky issues. Whilst I faced similar problems in my rugby version of this analysis none of the constituent nations of those states competed internationally before they became a part of thos over-arching states. 
+
+However in football Russia, Lithuania, Latvia, and Estonia from USSR, and the Czech Republic (as Bohemia) from Czechoslovakia all competed prior to the formation of thos multi-nation states. For this analysis I decided to **NOT** reset their counter when the multi-nation state was formed. Therefors, for example, Russia is considered to have competed since 1912.
+
+However with Yugoslavia (and the other states in USSR/Czechoslovakia) they never competed as independent states prior to the formation of the multi-nation states and so I reset their counters at the dissolution of those states/independence for the constituent nations. Therefore, for example, Kosovo is considered to have competed as part of Yugoslavia - which itself is considered to run until the independence of Serbia and Montenegro in 2006 - but has its counter reset upon its own independence in 2008. 
+
+I am aware that the realities are more complicated. Again as an example a Kosovo team competed unofficially, including against a Yugoslavia team, [as far back as the 40s](https://en.wikipedia.org/wiki/Kosovo_national_football_team#History). 
+
+In these more complicated cases I chose to follow the Wikipedia source using first FIFA official matches for ease and hopefully that doesn't diminish your enjoyment of the result.
 
 
 ## The Results

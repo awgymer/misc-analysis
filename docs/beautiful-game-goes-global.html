@@ -303,13 +303,21 @@ $(document).ready(function () {
 <ul>
 <li><p>“International” teams are not limited to those corresponding to sovereign nations. Several teams - including England, Wales, Scotland, and Hong Kong - compete at international level representing smaller subdivisions of nations.</p></li>
 <li><p>The first appearance is not necesarily a test match against another international team. For example Republic of Congo debuted against Reunion who have never been a FIFA member.</p></li>
-<li><p>The USSR, Yugoslavia, and Czechoslovakia teams represented combinations of current nations and this presented some difficulty. See <a href="#handling-multi-nation-states">below</a> for a fuller explanation of how I handled this.</p></li>
+<li><p>The USSR, Yugoslavia, and Czechoslovakia teams represented combinations of current nations and this presented some difficulty. See <a href="#handling-dissolved-multi-nation-states">below</a> for a fuller explanation of how I handled this.</p></li>
 <li><p>East Germany, Saarland, and British Palestine are discounted. Germany competed before the existence of East Germany and Saarland. British Palestine didn’t feel easy to reconcile with Israel/Palestine so I just left it out.</p></li>
 <li><p>Yemen is considered to have started with South Yemen. Both North and South competed for the first time in 1965.</p></li>
 <li><p>Vietnam is considered to have started when what is listed as South Vietnam competed in 1947, at which time the State of Vietnam appears to have been technically a single entity. North Vietnam and combined Vietnam later starts are ignored.</p></li>
 <li><p>China is considered to have started in 1913, despite there being a second entry for China PR in the data for 1948.</p></li>
 </ul>
 <p>I took geo data from <a href="https://www.naturalearthdata.com/">Natural Earth</a> and created a custom set using sovereign nations where possible but incorporating dependencies and subdivisions where necessary. I computed centroids for this data using <a href="https://mapshaper.org/">mapshaper</a>.</p>
+<div id="handling-dissolved-multi-nation-states" class="section level4">
+<h4>Handling Dissolved Multi-Nation States</h4>
+<p>The multination states of USSR, Yugoslavia, and Czechoslovakia posed some tricky issues. Whilst I faced similar problems in my rugby version of this analysis none of the constituent nations of those states competed internationally before they became a part of thos over-arching states.</p>
+<p>However in football Russia, Lithuania, Latvia, and Estonia from USSR, and the Czech Republic (as Bohemia) from Czechoslovakia all competed prior to the formation of thos multi-nation states. For this analysis I decided to <strong>NOT</strong> reset their counter when the multi-nation state was formed. Therefors, for example, Russia is considered to have competed since 1912.</p>
+<p>However with Yugoslavia (and the other states in USSR/Czechoslovakia) they never competed as independent states prior to the formation of the multi-nation states and so I reset their counters at the dissolution of those states/independence for the constituent nations. Therefore, for example, Kosovo is considered to have competed as part of Yugoslavia - which itself is considered to run until the independence of Serbia and Montenegro in 2006 - but has its counter reset upon its own independence in 2008.</p>
+<p>I am aware that the realities are more complicated. Again as an example a Kosovo team competed unofficially, including against a Yugoslavia team, <a href="https://en.wikipedia.org/wiki/Kosovo_national_football_team#History">as far back as the 40s</a>.</p>
+<p>In these more complicated cases I chose to follow the Wikipedia source using first FIFA official matches for ease and hopefully that doesn’t diminish your enjoyment of the result.</p>
+</div>
 </div>
 <div id="the-results" class="section level2">
 <h2>The Results</h2>
