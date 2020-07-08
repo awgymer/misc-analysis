@@ -6,4 +6,4 @@ This is my R-Markdown based website where I host short reports I create for anal
 
 #### Analyses
 
-1. [Beautiful Game Goes Global](beautiul-game-goes-global.html)
+1. [Beautiful Game Goes Global](beautiful-game-goes-global.html)
