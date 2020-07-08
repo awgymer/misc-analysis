@@ -1,4 +1,4 @@
-name: "analysis"
+name: "misc-analysis"
 output_dir: ../docs
 navbar:
   title: "Miscellaneous Analysis"
