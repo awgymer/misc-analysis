@@ -1,5 +1,6 @@
 name: "misc-analysis"
 output_dir: ../docs
+include: ['plots/*']
 navbar:
   title: "Miscellaneous Analysis"
   left:
