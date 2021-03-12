@@ -11,4 +11,4 @@ This is my R-Markdown based website where I host short reports I create for anal
 
 #### Standalone Plots
 
-1. [F1 2020-2021 Lap Leaders](plots/lap_waffles.png)
+1. [F1 2000-2020 Lap Leaders](plots/lap_waffles.png)
